@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libSoftCpt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libSoftCpt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

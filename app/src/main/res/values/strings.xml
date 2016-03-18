@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VoipBase</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_activity">Login_activity</string>
+    <string name="title_activity_voip">Voip</string>
+    <string name="title_activity_pay">PayActivity</string>
+    <string name="title_activity_friend_add">FriendAddActivity</string>
+</resources>
